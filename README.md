@@ -5,7 +5,9 @@
 rm -rf .git
 git init
 git remote add origin https://github.com/... // create github repository
-git push origin master
+git add .
+git commit -m "init"
+git push -u origin master
 ```
 ## Installation
 
