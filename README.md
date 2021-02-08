@@ -1,4 +1,6 @@
-# typescript-starter
+# Typescript Starter
+
+[Maxime d'Harboullé](https://github.com/anonymax25)  
 
 ## Installation
 
@@ -6,4 +8,9 @@
 
 ## Start
 
-```npm start```
+```npm start```  
+```npm run start:dev``` with nodemon 
+
+## Test
+
+```npm run test```
